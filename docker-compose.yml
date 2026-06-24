@@ -1,0 +1,32 @@
+# docker-compose.yml — Ollama (modelo open-source bajo evaluación) + app
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: papgra_ollama
+    volumes:
+      - ollama_data:/root/.ollama
+    ports:
+      - "11434:11434"
+    restart: unless-stopped
+
+  app:
+    build:
+      context: ./src
+      dockerfile: Dockerfile
+    container_name: papgra_app
+    depends_on:
+      - ollama
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+    env_file:
+      - ./src/.env          # GEMINI_API_KEY, solo para el post-proceso opcional
+    volumes:
+      - ./src/chroma_db:/app/chroma_db
+      - ./src/articulos:/app/articulos
+      - ./src/evaluacion:/app/evaluacion
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+
+volumes:
+  ollama_data:

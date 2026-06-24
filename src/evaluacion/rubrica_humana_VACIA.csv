@@ -1,0 +1,28 @@
+Column1;Column2;Column3;Column4;Column5;Column6;Column7;Column8;Column9;Column10
+modo;archivo;asociacion;tema;coherencia_1a5;factualidad_1a5;fluidez_1a5;relevancia_1a5;lenguaje_no_estigmatizante_1a5;comentarios
+generico;./evaluacion/generico/20260623_014512_qué_es_la_sensibilidad_química_múltiple.txt;SEQUIM;qué es la sensibilidad química múltiple;;;;;;
+rag;./evaluacion/rag/20260623_014620_SEQUIM_qué_es_la_sensibilidad_química_mú.txt;SEQUIM;qué es la sensibilidad química múltiple;;;;;;
+generico;./evaluacion/generico/20260623_014801_qué_es_la_sensibilidad_química_múltiple.txt;SEQUIM;qué es la sensibilidad química múltiple;;;;;;
+rag;./evaluacion/rag/20260623_014915_SEQUIM_qué_es_la_sensibilidad_química_mú.txt;SEQUIM;qué es la sensibilidad química múltiple;;;;;;
+generico;./evaluacion/generico/20260623_015021_convivir_con_la_sensibilidad_química_múl.txt;SEQUIM;convivir con la sensibilidad química múltiple;;;;;;
+rag;./evaluacion/rag/20260623_015118_SEQUIM_convivir_con_la_sensibilidad_quím.txt;SEQUIM;convivir con la sensibilidad química múltiple;;;;;;
+generico;./evaluacion/generico/20260623_015225_qué_es_la_sordera_o_discapacidad_auditiv.txt;ASPRODES;qué es la sordera o discapacidad auditiva;;;;;;
+rag;./evaluacion/rag/20260623_015324_ASPRODES_qué_es_la_sordera_o_discapacida.txt;ASPRODES;qué es la sordera o discapacidad auditiva;;;;;;
+generico;./evaluacion/generico/20260623_015438_convivir_con_un_hijo_sordo.txt;ASPRODES;convivir con un hijo sordo;;;;;;
+rag;./evaluacion/rag/20260623_015528_ASPRODES_convivir_con_un_hijo_sordo.txt;ASPRODES;convivir con un hijo sordo;;;;;;
+generico;./evaluacion/generico/20260623_015640_qué_es_el_Parkinson.txt;PARKINSON;qué es el Parkinson;;;;;;
+rag;./evaluacion/rag/20260623_015749_PARKINSON_qué_es_el_Parkinson.txt;PARKINSON;qué es el Parkinson;;;;;;
+generico;./evaluacion/generico/20260623_015843_convivir_con_una_persona_con_Parkinson.txt;PARKINSON;convivir con una persona con Parkinson;;;;;;
+rag;./evaluacion/rag/20260623_015955_PARKINSON_convivir_con_una_persona_con_P.txt;PARKINSON;convivir con una persona con Parkinson;;;;;;
+generico;./evaluacion/generico/20260623_020104_qué_es_el_síndrome_de_Down.txt;DOWN;qué es el síndrome de Down;;;;;;
+rag;./evaluacion/rag/20260623_020206_DOWN_qué_es_el_síndrome_de_Down.txt;DOWN;qué es el síndrome de Down;;;;;;
+generico;./evaluacion/generico/20260623_020305_convivir_con_una_persona_con_síndrome_de.txt;DOWN;convivir con una persona con síndrome de Down;;;;;;
+rag;./evaluacion/rag/20260623_020401_DOWN_convivir_con_una_persona_con_síndro.txt;DOWN;convivir con una persona con síndrome de Down;;;;;;
+generico;./evaluacion/generico/20260623_020506_qué_es_la_enfermedad_de_Crohn.txt;ACCU;qué es la enfermedad de Crohn;;;;;;
+rag;./evaluacion/rag/20260623_020616_ACCU_qué_es_la_enfermedad_de_Crohn.txt;ACCU;qué es la enfermedad de Crohn;;;;;;
+generico;./evaluacion/generico/20260623_020724_convivir_con_la_colitis_ulcerosa_en_el_d.txt;ACCU;convivir con la colitis ulcerosa en el día a día;;;;;;
+rag;./evaluacion/rag/20260623_020828_ACCU_convivir_con_la_colitis_ulcerosa_en.txt;ACCU;convivir con la colitis ulcerosa en el día a día;;;;;;
+generico;./evaluacion/generico/20260623_020933_qué_es_el_Alzheimer.txt;GAEN;qué es el Alzheimer;;;;;;
+rag;./evaluacion/rag/20260623_021022_GAEN_qué_es_el_Alzheimer.txt;GAEN;qué es el Alzheimer;;;;;;
+generico;./evaluacion/generico/20260623_021128_cuidar_a_una_persona_con_demencia_en_cas.txt;GAEN;cuidar a una persona con demencia en casa;;;;;;
+rag;./evaluacion/rag/20260623_021218_GAEN_cuidar_a_una_persona_con_demencia_e.txt;GAEN;cuidar a una persona con demencia en casa;;;;;;
