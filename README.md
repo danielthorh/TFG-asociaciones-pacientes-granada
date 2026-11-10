@@ -1,6 +1,6 @@
 # Generador de artículos con IA para PAPGRA
 
-Sistema RAG (*Retrieval-Augmented Generation*) **100 % local** que genera artículos divulgativos para las asociaciones de pacientes de **PAPGRA** (Federación Granadina de Asociaciones de Pacientes), a partir de la documentación propia de cada asociación.
+Sistema RAG (*Retrieval-Augmented Generation*) **100 % local** que genera artículos divulgativos para las asociaciones de pacientes de Granada
 
 Proyecto desarrollado como Trabajo Fin de Grado del Grado en Información y Contenidos Digitales — <!-- TODO: universidad --> — bajo la tutela de Ginés <!-- TODO: apellidos -->.
 
